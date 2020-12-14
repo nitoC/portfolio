@@ -53,6 +53,7 @@ const Social= ({style}) => {
                }
                header div a{
                   border-bottom:2px solid wheat;
+                  text-decoration:none;
                   padding:1.2rem;
                   transition:.5s;
                }
@@ -109,6 +110,7 @@ const Social= ({style}) => {
                     display:block;
                     width:70vw;
                    border-bottom:2px solid wheat;
+                   text-decoration:none;
                    transition:.5s;
                 }
                 header div a:hover{
@@ -128,12 +130,12 @@ const Social= ({style}) => {
         <div>
             <h1 className="social">Social Handles</h1>
         <nav>
-            <Link href="www.github.com/nitoc"><a>Github</a></Link>
-            <Link href="www.linkedin.com/mwlite/in/chinedu-mbaodoh-2297251aa"><a>Linkediln</a></Link>
-            <Link href="www.twitter.com.com/mbaodoh"><a>Twitter</a></Link>
+            <a href="www.github.com/nitoc">Github</a>
+            <a href="www.linkedin.com/mwlite/in/chinedu-mbaodoh-2297251aa">Linkediln</a>
+            <a href="www.twitter.com.com/mbaodoh">Twitter</a>
         </nav>
         </div>
-        <h1 className="contact"><Link href="Contacts"><a>Contact</a></Link></h1>
+        <h1 className="contact"><a href="Contacts">Contact</a></h1>
         </header>
         </>
      );

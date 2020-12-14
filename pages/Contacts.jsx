@@ -64,9 +64,9 @@ const Contact = () => {
                <h3>   +2349032672139</h3>
            </div>
            <div className="flex">
-               <Link href="nitoc.epizy.com/#contact">
+               <a href="https://nitoc.epizy.com/#contact">
                <span className="span"><a>Message me</a></span>
-               </Link>
+               </a>
            </div>
            </div>
            <div className="img">
