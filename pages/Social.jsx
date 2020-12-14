@@ -130,9 +130,9 @@ const Social= ({style}) => {
         <div>
             <h1 className="social">Social Handles</h1>
         <nav>
-            <a href="www.github.com/nitoc">Github</a>
-            <a href="www.linkedin.com/mwlite/in/chinedu-mbaodoh-2297251aa">Linkediln</a>
-            <a href="www.twitter.com.com/mbaodoh">Twitter</a>
+            <a href="https://www.github.com/nitoc">Github</a>
+            <a href="https://www.linkedin.com/mwlite/in/chinedu-mbaodoh-2297251aa">Linkediln</a>
+            <a href="https://www.twitter.com.com/mbaodoh">Twitter</a>
         </nav>
         </div>
         <h1 className="contact"><a href="Contacts">Contact</a></h1>
