@@ -235,7 +235,7 @@ const Projects= () => {
                   <div className="row">
                       <div className="image">
                       <h3 className="h3">Ivote.ng</h3>
-                  <Link href="ivote.ng">
+                  <a href="ivote.ng">
                       <div className="projects">
                       <img src="projects.png" alt=""/>
                       <div className="overlay">
@@ -243,11 +243,11 @@ const Projects= () => {
                           <div className="icon"><a><img src="icon.jpg" alt=""/></a></div>
                       </div>
                       </div>
-                  </Link>
+                  </a>
                   </div>
                   <div className="image">
                   <h3 className="h3">Podiousplus</h3>
-                  <Link  href="podiousplus.netlify.app">
+                  <a  href="podiousplus.netlify.app">
                       <div className="projects">
                       <img src="projects1.png" alt=""/>
                       <div className="overlay">
@@ -255,11 +255,11 @@ const Projects= () => {
                           <div className="icon"><a><img src="icon.jpg" alt=""/></a></div>
                       </div>
                       </div>
-                  </Link>
+                  </a>
                   </div>
                   <div className="image">
                   <h3 className="h3">Employable</h3>
-                  <Link href="jobsnitoc.netlify.app">
+                  <a href="jobsnitoc.netlify.app">
                      <div className="projects">
                       <img src="projects.png" alt=""/>
                       <div className="overlay">
@@ -267,11 +267,11 @@ const Projects= () => {
                           <div className="icon"><a><img src="icon.jpg" alt=""/></a></div>
                       </div>
                       </div>
-                  </Link>  
+                  </a>  
                   </div>
                   <div className="image">
                   <h3 className="h3">Shoppoint</h3>
-                  <Link href="shoppoint.herokuapp.com">
+                  <a href="shoppoint.herokuapp.com">
                      <div className="projects">
                       <img src="projects1.png" alt=""/>
                       <div className="overlay">
@@ -279,11 +279,11 @@ const Projects= () => {
                           <div className="icon"><a><img src="icon.jpg" alt=""/></a></div>
                       </div>
                       </div>
-                  </Link> 
+                  </a> 
                   </div>
                   <div className="image">
                   <h3 className="h3">Todo app</h3>
-                  <Link href="todo-chinedu.herokuapp.com">
+                  <a href="todo-chinedu.herokuapp.com">
                      <div className="projects">
                       <img src="projects.png" alt=""/>
                       <div className="overlay">
@@ -291,11 +291,11 @@ const Projects= () => {
                           <div className="icon"><a><img src="icon.jpg" alt=""/></a></div>
                       </div>
                       </div>
-                  </Link> 
+                  </a> 
                   </div>
                   <div className="image">
                       <h3 className="h3">Timeline</h3>
-                  <Link href="postnitoc.netlify.app">
+                  <a href="postnitoc.netlify.app">
                       <div className="projects">
                       <img src="projects1.png" alt=""/>
                       <div className="overlay">
@@ -303,7 +303,7 @@ const Projects= () => {
                           <div className="icon"><a><img src="icon.jpg" alt=""/></a></div>
                       </div>
                       </div>
-                  </Link>
+                  </a>
                   </div>
                   </div> 
                   </div>
@@ -312,7 +312,7 @@ const Projects= () => {
                       <div className="row">
                       <div className="image">
                         <h3 className="h3">Proxat ecommerce</h3>
-                  <Link href="proxat.com">
+                  <a href="proxat.com">
                       <div className="projects">
                       <img src="projects2.png" alt=""/>
                       <div className="overlay">
@@ -320,11 +320,11 @@ const Projects= () => {
                           <div className="icon"><a><img src="icon.jpg" alt=""/></a></div>
                       </div>
                       </div>
-                  </Link>  
+                  </a>  
                   </div>
                  <div className="image">
                  <h3 className="h3">React chatapp</h3>
-                  <Link href="chatappnitoc.netlify.app">
+                  <a href="chatappnitoc.netlify.app">
                       <div className="projects">
                       <img src="projects2.png" alt=""/>
                       <div className="overlay">
@@ -332,11 +332,11 @@ const Projects= () => {
                           <div className="icon"><a><img src="icon.jpg" alt=""/></a></div>
                       </div>
                       </div>
-                  </Link>
+                  </a>
                   </div>
                   <div className="image">
                   <h3 className="h3">3reen ecommerce</h3>
-                  <Link href="3reen.netlify.app">
+                  <a href="3reen.netlify.app">
                       <div className="projects">
                       <img src="projects2.png" alt=""/>
                       <div className="overlay">
@@ -344,7 +344,7 @@ const Projects= () => {
                           <div className="icon"><a><img src="icon.jpg" alt=""/></a></div>
                       </div>
                       </div>
-                  </Link>  
+                  </a>  
                   </div>
                   </div>
               </div>
@@ -354,7 +354,7 @@ const Projects= () => {
                     <div className="row">
                         <div className="image">
                         <h3 className="h3">React calculator</h3>
-                  <Link href="https://codepen.io/nitoc/pen/ZEWVEpz">
+                  <a href="https://codepen.io/nitoc/pen/ZEWVEpz">
                       <div className="projects">
                       <img src="projects2.png" alt=""/>
                       <div className="overlay">
@@ -362,11 +362,11 @@ const Projects= () => {
                           <div className="icon"><a><img src="icon.jpg" alt=""/></a></div>
                       </div>
                       </div>
-                  </Link>  
+                  </a>  
                   </div>
                   <div className="image">
                   <h3 className="h3">Countdown Timer</h3>
-                  <Link href="https://codepen.io/nitoc/pen/zYrbVmj">
+                  <a href="https://codepen.io/nitoc/pen/zYrbVmj">
                       <div className="projects">
                       <img src="projects2.png" alt=""/>
                       <div className="overlay">
@@ -374,7 +374,7 @@ const Projects= () => {
                           <div className="icon"><a><img src="icon.jpg" alt=""/></a></div>
                       </div>
                       </div>
-                  </Link>  
+                  </a>  
                   </div>
                  </div>
                  <CopyRight/>
