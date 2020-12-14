@@ -45,6 +45,9 @@ const Projects= () => {
                  z-index:15;
                  visibility:hidden;
              }
+             a{
+                 text-decoration:none;
+             }
              .ham-cover div{
                   height:5px;
                   width:35px;
