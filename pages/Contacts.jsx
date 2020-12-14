@@ -2,11 +2,9 @@ import * as React from 'react';
 import { Component } from 'react';
 import CopyRight from './copyright';
 import Link from 'next/link';
-export interface ContactProps {
-    
-}
+
  
-const Contact: React.SFC<ContactProps> = () => {
+const Contact = () => {
     return (  
         <>
         <style jsx global>
