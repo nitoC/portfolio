@@ -1,19 +1,12 @@
 import * as React from 'react';
 import { Component } from 'react';
 
-export interface CopyRightProps {
-    Name:String;
-    
-}
+
  
-export interface CopyRightState {
-    
-}
- 
-class CopyRight extends React.Component<CopyRightProps, CopyRightState> {
-    constructor(props: CopyRightProps) {
+class CopyRight extends React.Component {
+    constructor(props) {
         super(props);
-        this.state = {name :"Chinedu Mbaodoh"  };
+        this.state = {  };
     }
     render() { 
         return (
@@ -34,7 +27,7 @@ class CopyRight extends React.Component<CopyRightProps, CopyRightState> {
                  }
                 </style>
                 <p className="copywrite copycolor" id="copy">powered by  VScode, Chrome and coffee</p>
-        <p className="copywrite">Copyright<span className="copy"  >&copy;</span> 2020 {this.state.name}</p>
+        <p className="copywrite">Copyright<span className="copy"  >&copy;</span> 2020 Chinedu Mbaodoh</p>
             </div>
           );
     }

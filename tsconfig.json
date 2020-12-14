@@ -21,7 +21,7 @@
   "include": [
     "next-env.d.ts",
     "**/*.ts",
-    "**/*.tsx"
+    "**/*.tsx", "pages/Home.jsx", "pages/copyright.jsx", "pages/Social.jsx", "pages/Projects.jsx", "pages/index.jsx"
   ],
   "exclude": [
     "node_modules"

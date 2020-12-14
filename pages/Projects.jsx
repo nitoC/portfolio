@@ -8,11 +8,9 @@ import CopyRight from "./copyright";
 
 var style={top:"-342px"}
 var cover={display:"none"}
-interface Props{
 
-}
 
-const Projects:Props= () => {
+const Projects= () => {
     const [change,setChange]=useState(false)
     
     const toggle=()=>{
