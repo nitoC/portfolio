@@ -238,7 +238,7 @@ const Projects= () => {
                   <div className="row">
                       <div className="image">
                       <h3 className="h3">Ivote.ng</h3>
-                  <a href="ivote.ng">
+                  <a href="https://ivote.ng">
                       <div className="projects">
                       <img src="projects.png" alt=""/>
                       <div className="overlay">
@@ -250,7 +250,7 @@ const Projects= () => {
                   </div>
                   <div className="image">
                   <h3 className="h3">Podiousplus</h3>
-                  <a  href="podiousplus.netlify.app">
+                  <a  href="https://podiousplus.netlify.app">
                       <div className="projects">
                       <img src="projects1.png" alt=""/>
                       <div className="overlay">
@@ -262,7 +262,7 @@ const Projects= () => {
                   </div>
                   <div className="image">
                   <h3 className="h3">Employable</h3>
-                  <a href="jobsnitoc.netlify.app">
+                  <a href="https://jobsnitoc.netlify.app">
                      <div className="projects">
                       <img src="projects.png" alt=""/>
                       <div className="overlay">
@@ -274,7 +274,7 @@ const Projects= () => {
                   </div>
                   <div className="image">
                   <h3 className="h3">Shoppoint</h3>
-                  <a href="shoppoint.herokuapp.com">
+                  <a href="https://shoppoint.herokuapp.com">
                      <div className="projects">
                       <img src="projects1.png" alt=""/>
                       <div className="overlay">
@@ -286,7 +286,7 @@ const Projects= () => {
                   </div>
                   <div className="image">
                   <h3 className="h3">Todo app</h3>
-                  <a href="todo-chinedu.herokuapp.com">
+                  <a href="https://todo-chinedu.herokuapp.com">
                      <div className="projects">
                       <img src="projects.png" alt=""/>
                       <div className="overlay">
@@ -298,7 +298,7 @@ const Projects= () => {
                   </div>
                   <div className="image">
                       <h3 className="h3">Timeline</h3>
-                  <a href="postnitoc.netlify.app">
+                  <a href="jttps://postnitoc.netlify.app">
                       <div className="projects">
                       <img src="projects1.png" alt=""/>
                       <div className="overlay">
@@ -315,7 +315,7 @@ const Projects= () => {
                       <div className="row">
                       <div className="image">
                         <h3 className="h3">Proxat ecommerce</h3>
-                  <a href="proxat.com">
+                  <a href="https://proxat.com">
                       <div className="projects">
                       <img src="projects2.png" alt=""/>
                       <div className="overlay">
